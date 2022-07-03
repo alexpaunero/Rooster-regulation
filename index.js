@@ -1,3 +1,7 @@
+// Task 1: Import Assert module
+const assert = require('assert');
+
+
 // Define a rooster
 Rooster = {};
 
